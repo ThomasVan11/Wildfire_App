@@ -111,3 +111,5 @@ wincertstore==0.2
 zict==2.1.0
 
 voila
+
+matplotlib
