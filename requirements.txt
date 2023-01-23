@@ -2,6 +2,8 @@
 #anaconda-client==1.11.0
 #anaconda-navigator==2.3.2
 
+numpy==1.24.1
+
 appdirs==1.4.4
 
 atomicwrites==1.4.0
