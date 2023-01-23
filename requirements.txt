@@ -113,3 +113,4 @@ zict==2.1.0
 voila
 
 matplotlib
+ipywidgets
