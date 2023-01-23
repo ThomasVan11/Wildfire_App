@@ -118,7 +118,7 @@ zict==2.1.0
 
 voila
 
-ipywidgets==7.6.5
+ipywidgets==7.7.2
 plotly==5.9.0
 matplotlib==3.5.2
 requests==2.28.1
