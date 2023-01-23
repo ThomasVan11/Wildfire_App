@@ -2,7 +2,7 @@
 #anaconda-client==1.11.0
 #anaconda-navigator==2.3.2
 
-numpy==1.24.1
+numpy==1.21.6
 
 appdirs==1.4.4
 
