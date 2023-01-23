@@ -3,7 +3,7 @@
 #anaconda-navigator==2.3.2
 jupyter_contrib_nbextensions
 numpy==1.21.6
-IPython.display
+#IPython.display
 appdirs==1.4.4
 
 atomicwrites==1.4.0
