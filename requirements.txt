@@ -21,7 +21,7 @@ cligj==0.7.2
 clyent==1.2.1
 
 comtypes==1.1.10
-conda==22.11.1
+conda==4.3.16
 conda-build==3.22.0
 
 conda-repo-cli==1.0.20
