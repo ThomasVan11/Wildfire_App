@@ -1,6 +1,7 @@
 
 #anaconda-client==1.11.0
 #anaconda-navigator==2.3.2
+seaborn
 bqplot
 ipympl
 ipyvolume
