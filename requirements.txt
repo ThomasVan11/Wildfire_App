@@ -1,6 +1,11 @@
 
 #anaconda-client==1.11.0
 #anaconda-navigator==2.3.2
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
 jupyter_contrib_nbextensions
 numpy==1.21.6
 ipython
